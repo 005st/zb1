@@ -1,0 +1,57 @@
+h3{
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(237, 82, 144);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body{
+    background-color: rgb(254, 205, 220);
+}
+
+main{
+    border-radius: 7px;
+    background: linear-gradient(180deg,rgb(254, 255, 228) 0%, rgb(236, 255, 249) 100%);;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(243, 107, 148);
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 160px;
+    margin-right: 160px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+img{
+    border-radius: 6px;
+    border: 3px dashed rgb(243, 107, 148);
+    padding: 3px;
+    margin-left: 0.5px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(243, 107, 148);
+}
+
+a:visited{
+    color:rgb(193, 49, 87);
+}
+
+a:hover{
+    color: rgb(221, 66, 128);
+}

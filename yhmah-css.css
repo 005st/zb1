@@ -45,7 +45,7 @@ ul{
 
 a{
     text-decoration: none;
-    color: rgb(69, 126, 210);
+    color: rgb(43, 98, 179);
 }
 
 a:visited{
@@ -53,5 +53,5 @@ a:visited{
 }
 
 a:hover{
-    color: rgb(11, 170, 128);
+    color: rgb(13, 130, 99);
 }
